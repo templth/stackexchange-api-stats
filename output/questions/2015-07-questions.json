@@ -1,0 +1,356 @@
+[
+  {
+    "tags": [
+      "java",
+      "jackson",
+      "restlet",
+      "xstream"
+    ],
+    "owner": {
+      "reputation": 320,
+      "user_id": 3061776,
+      "user_type": "registered",
+      "accept_rate": 92,
+      "profile_image": "https://www.gravatar.com/avatar/923886cee198db7663725767354c290b?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Igor",
+      "link": "http://stackoverflow.com/users/3061776/igor"
+    },
+    "is_answered": true,
+    "view_count": 100,
+    "accepted_answer_id": 31857150,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1438875239,
+    "creation_date": 1438284844,
+    "last_edit_date": 1438871762,
+    "question_id": 31732534,
+    "link": "http://stackoverflow.com/questions/31732534/replace-xstream-facilities",
+    "title": "Replace Xstream facilities",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1438875239,
+        "last_edit_date": 1438875239,
+        "creation_date": 1438867827,
+        "answer_id": 31857150,
+        "question_id": 31732534
+      }
+    ]
+  },
+  {
+    "tags": [
+      "maven",
+      "proxy",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 1572,
+      "user_id": 529187,
+      "user_type": "registered",
+      "accept_rate": 34,
+      "profile_image": "https://i.stack.imgur.com/d6KNT.jpg?s=128&g=1",
+      "display_name": "XiaoPeng",
+      "link": "http://stackoverflow.com/users/529187/xiaopeng"
+    },
+    "is_answered": false,
+    "view_count": 43,
+    "answer_count": 0,
+    "score": 1,
+    "last_activity_date": 1438300267,
+    "creation_date": 1438300267,
+    "question_id": 31735931,
+    "link": "http://stackoverflow.com/questions/31735931/how-can-i-get-restlet-via-maven-when-i-am-behind-a-proxy",
+    "title": "How can I get Restlet via Maven when I am behind a proxy?"
+  },
+  {
+    "tags": [
+      "java",
+      "jetty",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 454,
+      "user_id": 2143734,
+      "user_type": "registered",
+      "accept_rate": 75,
+      "profile_image": "https://www.gravatar.com/avatar/4fba57af449c3bd69906eb126405fd1f?s=128&d=identicon&r=PG",
+      "display_name": "Zzirconium",
+      "link": "http://stackoverflow.com/users/2143734/zzirconium"
+    },
+    "is_answered": true,
+    "view_count": 458,
+    "accepted_answer_id": 31718445,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1438264778,
+    "creation_date": 1438185422,
+    "question_id": 31705477,
+    "link": "http://stackoverflow.com/questions/31705477/how-to-set-attributes-on-application-context-through-a-jetty-server-handler",
+    "title": "How to set attributes on Application Context through a Jetty server Handler",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64093,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1438264778,
+        "last_edit_date": 1438264778,
+        "creation_date": 1438243927,
+        "answer_id": 31718445,
+        "question_id": 31705477
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "jetty",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 454,
+      "user_id": 2143734,
+      "user_type": "registered",
+      "accept_rate": 75,
+      "profile_image": "https://www.gravatar.com/avatar/4fba57af449c3bd69906eb126405fd1f?s=128&d=identicon&r=PG",
+      "display_name": "Zzirconium",
+      "link": "http://stackoverflow.com/users/2143734/zzirconium"
+    },
+    "is_answered": true,
+    "view_count": 228,
+    "accepted_answer_id": 31700164,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1438172197,
+    "creation_date": 1438162707,
+    "last_edit_date": 1438163428,
+    "question_id": 31696657,
+    "link": "http://stackoverflow.com/questions/31696657/posting-with-jetty-client-gives-a-null-representation-in-restlet",
+    "title": "Posting with jetty client gives a null Representation in restlet",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64093,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1438172197,
+        "creation_date": 1438172197,
+        "answer_id": 31700164,
+        "question_id": 31696657
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 320,
+      "user_id": 3061776,
+      "user_type": "registered",
+      "accept_rate": 92,
+      "profile_image": "https://www.gravatar.com/avatar/923886cee198db7663725767354c290b?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Igor",
+      "link": "http://stackoverflow.com/users/3061776/igor"
+    },
+    "is_answered": true,
+    "view_count": 197,
+    "accepted_answer_id": 31586996,
+    "answer_count": 1,
+    "score": 2,
+    "last_activity_date": 1437656521,
+    "creation_date": 1437550127,
+    "last_edit_date": 1437561342,
+    "question_id": 31556560,
+    "link": "http://stackoverflow.com/questions/31556560/corsfilter-setallowedorigins-redundancy",
+    "title": "CorsFilter setAllowedOrigins(*) redundancy",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1437656521,
+        "last_edit_date": 1437656521,
+        "creation_date": 1437653518,
+        "answer_id": 31586996,
+        "question_id": 31556560
+      }
+    ]
+  },
+  {
+    "tags": [
+      "android",
+      "file",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 69,
+      "user_id": 4838582,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/7d520f0b64d0ec47336029327a719132?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Fabian Mizieliński",
+      "link": "http://stackoverflow.com/users/4838582/fabian-mizieli%c5%84ski"
+    },
+    "is_answered": true,
+    "view_count": 88,
+    "accepted_answer_id": 31569094,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1437598351,
+    "creation_date": 1437577738,
+    "question_id": 31567106,
+    "link": "http://stackoverflow.com/questions/31567106/getting-file-form-restlet-response",
+    "title": "Getting file form Restlet Response",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64093,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1437598351,
+        "last_edit_date": 1437598351,
+        "creation_date": 1437583188,
+        "answer_id": 31569094,
+        "question_id": 31567106
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "php",
+      "rest",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 16,
+      "user_id": 4271700,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/1960867a3c465398e8b3037211da0d6b?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Uriel Salischiker",
+      "link": "http://stackoverflow.com/users/4271700/uriel-salischiker"
+    },
+    "is_answered": false,
+    "view_count": 79,
+    "answer_count": 2,
+    "score": 1,
+    "last_activity_date": 1436943661,
+    "creation_date": 1436924494,
+    "question_id": 31420111,
+    "link": "http://stackoverflow.com/questions/31420111/is-it-possible-to-create-a-client-in-php-for-restlet",
+    "title": "Is it possible to create a client in PHP for Restlet?"
+  },
+  {
+    "tags": [
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 21,
+      "user_id": 3411788,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/51108974d3b6763c784444542297d6ac?s=128&d=identicon&r=PG&f=1",
+      "display_name": "user3411788",
+      "link": "http://stackoverflow.com/users/3411788/user3411788"
+    },
+    "is_answered": false,
+    "view_count": 305,
+    "answer_count": 0,
+    "score": 4,
+    "last_activity_date": 1436819253,
+    "creation_date": 1436819253,
+    "question_id": 31392802,
+    "link": "http://stackoverflow.com/questions/31392802/https-proxy-with-restlet-client",
+    "title": "Https Proxy with Restlet Client"
+  },
+  {
+    "tags": [
+      "java",
+      "multithreading",
+      "rest",
+      "asynchronous",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 21,
+      "user_id": 5100295,
+      "user_type": "registered",
+      "profile_image": "https://graph.facebook.com/1097871886893015/picture?type=large",
+      "display_name": "Niakrais",
+      "link": "http://stackoverflow.com/users/5100295/niakrais"
+    },
+    "is_answered": false,
+    "view_count": 226,
+    "answer_count": 0,
+    "score": 1,
+    "last_activity_date": 1436474975,
+    "creation_date": 1436474186,
+    "last_edit_date": 1436474975,
+    "question_id": 31327723,
+    "link": "http://stackoverflow.com/questions/31327723/can-we-create-asynchronous-rest-service-with-restlet-framework",
+    "title": "Can we create asynchronous REST service with Restlet framework?"
+  },
+  {
+    "tags": [
+      "java",
+      "rest",
+      "jni",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 6,
+      "user_id": 5095600,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/70ffa59b6f124e00aea2685c9955b7bb?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Dejan Ristic",
+      "link": "http://stackoverflow.com/users/5095600/dejan-ristic"
+    },
+    "is_answered": false,
+    "view_count": 122,
+    "answer_count": 0,
+    "score": 1,
+    "last_activity_date": 1436388269,
+    "creation_date": 1436385086,
+    "last_edit_date": 1436388269,
+    "question_id": 31302390,
+    "link": "http://stackoverflow.com/questions/31302390/calling-native-method-from-rest-service",
+    "title": "Calling native method from rest service"
+  }
+]

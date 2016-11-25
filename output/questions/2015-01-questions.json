@@ -1,0 +1,1113 @@
+[
+  {
+    "tags": [
+      "xml",
+      "tomcat",
+      "restlet",
+      "intellij-13"
+    ],
+    "owner": {
+      "reputation": 430,
+      "user_id": 3766079,
+      "user_type": "registered",
+      "accept_rate": 23,
+      "profile_image": "https://www.gravatar.com/avatar/fd9798ad5e76108e44e570d42dc735a9?s=128&d=identicon&r=PG&f=1",
+      "display_name": "harrythomas",
+      "link": "http://stackoverflow.com/users/3766079/harrythomas"
+    },
+    "is_answered": false,
+    "view_count": 148,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1449160932,
+    "creation_date": 1420135485,
+    "last_edit_date": 1420135922,
+    "question_id": 27733243,
+    "link": "http://stackoverflow.com/questions/27733243/deploying-the-restlet-web-project-from-intelij-to-apache-tomcat",
+    "title": "Deploying the Restlet web project from Intelij to apache tomcat?"
+  },
+  {
+    "tags": [
+      "gwt",
+      "junit",
+      "htmlunit",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 8866,
+      "user_id": 785349,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/S6N4o.jpg?s=128&g=1",
+      "display_name": "xybrek",
+      "link": "http://stackoverflow.com/users/785349/xybrek"
+    },
+    "is_answered": true,
+    "view_count": 337,
+    "accepted_answer_id": 27940225,
+    "answer_count": 2,
+    "score": 2,
+    "last_activity_date": 1446881738,
+    "creation_date": 1420435685,
+    "question_id": 27773877,
+    "link": "http://stackoverflow.com/questions/27773877/gwttestcase-htmlunit-no-permitted-access-control-allow-origin",
+    "title": "GWTTestCase - HTMLUnit - No permitted &quot;Access-Control-Allow-Origin&quot;",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 2176,
+          "user_id": 177567,
+          "user_type": "registered",
+          "accept_rate": 76,
+          "profile_image": "https://www.gravatar.com/avatar/aad8ef07b3c57680ad0cf3aaf6bd78e5?s=128&d=identicon&r=PG",
+          "display_name": "Stevko",
+          "link": "http://stackoverflow.com/users/177567/stevko"
+        },
+        "is_accepted": false,
+        "score": 2,
+        "last_activity_date": 1446881738,
+        "last_edit_date": 1446881738,
+        "creation_date": 1446878795,
+        "answer_id": 33579999,
+        "question_id": 27773877
+      },
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1433552140,
+        "last_edit_date": 1433552140,
+        "creation_date": 1421229755,
+        "answer_id": 27940225,
+        "question_id": 27773877
+      }
+    ]
+  },
+  {
+    "tags": [
+      "maven",
+      "nexus",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 56,
+      "user_id": 2618033,
+      "user_type": "registered",
+      "profile_image": "https://graph.facebook.com/100000332706842/picture?type=large",
+      "display_name": "Ben Keil",
+      "link": "http://stackoverflow.com/users/2618033/ben-keil"
+    },
+    "is_answered": true,
+    "view_count": 583,
+    "answer_count": 2,
+    "score": 1,
+    "last_activity_date": 1443618061,
+    "creation_date": 1422458512,
+    "last_edit_date": 1422526943,
+    "question_id": 28195918,
+    "link": "http://stackoverflow.com/questions/28195918/cant-discover-maven-restlet-com",
+    "title": "Can&#39;t discover maven.restlet.com",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 91,
+          "user_id": 457402,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/40cda84ba2465924b16404911c4bee37?s=128&d=identicon&r=PG&f=1",
+          "display_name": "bazeusz",
+          "link": "http://stackoverflow.com/users/457402/bazeusz"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1443618061,
+        "creation_date": 1443618061,
+        "answer_id": 32866801,
+        "question_id": 28195918
+      },
+      {
+        "owner": {
+          "reputation": 2164,
+          "user_id": 2166420,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/7dfe7d153dba21a03964fd47d4746fdd?s=128&d=identicon&r=PG",
+          "display_name": "rseddon",
+          "link": "http://stackoverflow.com/users/2166420/rseddon"
+        },
+        "is_accepted": false,
+        "score": 4,
+        "last_activity_date": 1422538925,
+        "creation_date": 1422538925,
+        "answer_id": 28216237,
+        "question_id": 28195918
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "google-app-engine",
+      "rest",
+      "gwt",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 8866,
+      "user_id": 785349,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/S6N4o.jpg?s=128&g=1",
+      "display_name": "xybrek",
+      "link": "http://stackoverflow.com/users/785349/xybrek"
+    },
+    "is_answered": true,
+    "view_count": 380,
+    "accepted_answer_id": 28000531,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1433552210,
+    "creation_date": 1420181974,
+    "last_edit_date": 1420374775,
+    "question_id": 27738573,
+    "link": "http://stackoverflow.com/questions/27738573/using-restlet-clientresource-cannot-send-entity-to-restlet-service",
+    "title": "Using Restlet ClientResource cannot send entity to Restlet Service",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": true,
+        "score": 0,
+        "last_activity_date": 1433552210,
+        "last_edit_date": 1433552210,
+        "creation_date": 1421505394,
+        "answer_id": 28000531,
+        "question_id": 27738573
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "jquery",
+      "html5",
+      "video-streaming",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 4445048,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/a4358ee23174ecf5c66b425930d63080?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Sivanagaraju P",
+      "link": "http://stackoverflow.com/users/4445048/sivanagaraju-p"
+    },
+    "is_answered": false,
+    "view_count": 1408,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1433552198,
+    "creation_date": 1421064067,
+    "last_edit_date": 1421128165,
+    "question_id": 27901507,
+    "link": "http://stackoverflow.com/questions/27901507/stream-videos-in-client-app-using-ajax-and-java-restlet",
+    "title": "Stream videos in client app using Ajax and java Restlet"
+  },
+  {
+    "tags": [
+      "angularjs",
+      "authentication",
+      "cors",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 13,
+      "user_id": 4503579,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/53ac08464c7a0fce9a2c396711bfd976?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Emahl",
+      "link": "http://stackoverflow.com/users/4503579/emahl"
+    },
+    "is_answered": true,
+    "view_count": 464,
+    "accepted_answer_id": 28209551,
+    "answer_count": 2,
+    "score": 2,
+    "last_activity_date": 1433549310,
+    "creation_date": 1422459850,
+    "question_id": 28196426,
+    "link": "http://stackoverflow.com/questions/28196426/restlet-corsfilter-with-challengeauthenticator",
+    "title": "Restlet CorsFilter with ChallengeAuthenticator",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1433549310,
+        "last_edit_date": 1433549310,
+        "creation_date": 1422890154,
+        "answer_id": 28280852,
+        "question_id": 28196426
+      },
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 6,
+        "last_activity_date": 1422518124,
+        "creation_date": 1422518124,
+        "answer_id": 28209551,
+        "question_id": 28196426
+      }
+    ]
+  },
+  {
+    "tags": [
+      "authentication",
+      "servlets",
+      "jax-rs",
+      "servlet-filters",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 552,
+      "user_id": 780998,
+      "user_type": "registered",
+      "accept_rate": 82,
+      "profile_image": "https://www.gravatar.com/avatar/4ad22b74df346679a521b1652b51387e?s=128&d=identicon&r=PG",
+      "display_name": "Deven Phillips",
+      "link": "http://stackoverflow.com/users/780998/deven-phillips"
+    },
+    "is_answered": false,
+    "view_count": 135,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1433549084,
+    "creation_date": 1421086078,
+    "question_id": 27908167,
+    "link": "http://stackoverflow.com/questions/27908167/in-jetty-jersey-i-use-a-filter-for-custom-auth-headers-to-get-mapped-to-user-rol",
+    "title": "In Jetty/Jersey I use a filter for custom auth headers to get mapped to user roles. How do I accomplish this using ReSTlet?"
+  },
+  {
+    "tags": [
+      "java",
+      "cas",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 1121,
+      "user_id": 1810082,
+      "user_type": "registered",
+      "accept_rate": 48,
+      "profile_image": "https://www.gravatar.com/avatar/0ce00c10ab3bc6a23e1150c8c21088ab?s=128&d=identicon&r=PG",
+      "display_name": "flow",
+      "link": "http://stackoverflow.com/users/1810082/flow"
+    },
+    "is_answered": false,
+    "view_count": 653,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1429092435,
+    "creation_date": 1421844231,
+    "question_id": 28067569,
+    "link": "http://stackoverflow.com/questions/28067569/cas-server-4-0-x-restlet-api-supplied-credentials-are-null",
+    "title": "CAS server 4.0.x restlet api supplied credentials are null"
+  },
+  {
+    "tags": [
+      "java",
+      "osgi",
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 215,
+      "user_id": 3453172,
+      "user_type": "registered",
+      "accept_rate": 77,
+      "profile_image": "https://www.gravatar.com/avatar/0f181fa6228cfdd993ab5122f8ae3c2e?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Excite",
+      "link": "http://stackoverflow.com/users/3453172/excite"
+    },
+    "is_answered": true,
+    "view_count": 398,
+    "accepted_answer_id": 28266820,
+    "answer_count": 1,
+    "score": 2,
+    "last_activity_date": 1422818773,
+    "creation_date": 1422451225,
+    "question_id": 28193334,
+    "link": "http://stackoverflow.com/questions/28193334/restlet-in-osgi-can-not-find-com-sun-net-httpserver-httphandler",
+    "title": "Restlet in OSGI can not find com/sun/net/httpserver/HttpHandler",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 215,
+          "user_id": 3453172,
+          "user_type": "registered",
+          "accept_rate": 77,
+          "profile_image": "https://www.gravatar.com/avatar/0f181fa6228cfdd993ab5122f8ae3c2e?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Excite",
+          "link": "http://stackoverflow.com/users/3453172/excite"
+        },
+        "is_accepted": true,
+        "score": 3,
+        "last_activity_date": 1422818773,
+        "creation_date": 1422818773,
+        "answer_id": 28266820,
+        "question_id": 28193334
+      }
+    ]
+  },
+  {
+    "tags": [
+      "xml",
+      "json",
+      "restlet",
+      "pojo"
+    ],
+    "owner": {
+      "reputation": 2899,
+      "user_id": 355232,
+      "user_type": "registered",
+      "accept_rate": 63,
+      "profile_image": "https://www.gravatar.com/avatar/16a6ec87951c77954a811c62207faba5?s=128&d=identicon&r=PG",
+      "display_name": "sbrattla",
+      "link": "http://stackoverflow.com/users/355232/sbrattla"
+    },
+    "is_answered": true,
+    "view_count": 240,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422797492,
+    "creation_date": 1422702334,
+    "last_edit_date": 1422703084,
+    "question_id": 28250862,
+    "link": "http://stackoverflow.com/questions/28250862/xml-json-web-api-automatic-mapping-from-pojos",
+    "title": "XML &amp; JSON web api : automatic mapping from POJOs?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1422797492,
+        "creation_date": 1422797492,
+        "answer_id": 28263233,
+        "question_id": 28250862
+      }
+    ]
+  },
+  {
+    "tags": [
+      "android",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 6981,
+      "user_id": 1033422,
+      "user_type": "registered",
+      "accept_rate": 94,
+      "profile_image": "https://i.stack.imgur.com/I6uGA.png?s=128&g=1",
+      "display_name": "SHC",
+      "link": "http://stackoverflow.com/users/1033422/shc"
+    },
+    "is_answered": true,
+    "view_count": 200,
+    "accepted_answer_id": 28256378,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422737312,
+    "creation_date": 1422734029,
+    "question_id": 28255868,
+    "link": "http://stackoverflow.com/questions/28255868/issue-trying-to-expose-a-restlet-service-from-android-activity",
+    "title": "Issue trying to expose a Restlet service from Android activity",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 6981,
+          "user_id": 1033422,
+          "user_type": "registered",
+          "accept_rate": 94,
+          "profile_image": "https://i.stack.imgur.com/I6uGA.png?s=128&g=1",
+          "display_name": "SHC",
+          "link": "http://stackoverflow.com/users/1033422/shc"
+        },
+        "is_accepted": true,
+        "score": 0,
+        "last_activity_date": 1422737312,
+        "creation_date": 1422737312,
+        "answer_id": 28256378,
+        "question_id": 28255868
+      }
+    ]
+  },
+  {
+    "tags": [
+      "logging",
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 6981,
+      "user_id": 1033422,
+      "user_type": "registered",
+      "accept_rate": 94,
+      "profile_image": "https://i.stack.imgur.com/I6uGA.png?s=128&g=1",
+      "display_name": "SHC",
+      "link": "http://stackoverflow.com/users/1033422/shc"
+    },
+    "is_answered": false,
+    "view_count": 285,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422598128,
+    "creation_date": 1422560969,
+    "question_id": 28223333,
+    "link": "http://stackoverflow.com/questions/28223333/how-to-log-request-and-response-body-and-headers-with-reslet",
+    "title": "how to log request and response body and headers with reslet?"
+  },
+  {
+    "tags": [
+      "java",
+      "web-services",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 732,
+      "user_id": 1119161,
+      "user_type": "registered",
+      "accept_rate": 23,
+      "profile_image": "https://www.gravatar.com/avatar/4941b50fab94bddbe63b102f2c79d2da?s=128&d=identicon&r=PG",
+      "display_name": "dsp_user",
+      "link": "http://stackoverflow.com/users/1119161/dsp-user"
+    },
+    "is_answered": true,
+    "view_count": 284,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1422597961,
+    "creation_date": 1422545155,
+    "last_edit_date": 1422545423,
+    "question_id": 28218305,
+    "link": "http://stackoverflow.com/questions/28218305/calling-restful-ws-via-restlet-api",
+    "title": "Calling RESTful WS via restlet API",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1422597961,
+        "creation_date": 1422597961,
+        "answer_id": 28230132,
+        "question_id": 28218305
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "jetty",
+      "osgi",
+      "restlet",
+      "equinox"
+    ],
+    "owner": {
+      "reputation": 28,
+      "user_id": 2505550,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/7f22026200437aaaf6ae8e43955505f9?s=128&d=identicon&r=PG",
+      "display_name": "jrwilliams",
+      "link": "http://stackoverflow.com/users/2505550/jrwilliams"
+    },
+    "is_answered": true,
+    "view_count": 466,
+    "accepted_answer_id": 28209142,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1422530128,
+    "creation_date": 1422453050,
+    "last_edit_date": 1422530128,
+    "question_id": 28193924,
+    "link": "http://stackoverflow.com/questions/28193924/starting-jetty-from-restlet-in-osgi",
+    "title": "Starting Jetty from Restlet in OSGi",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1422516494,
+        "creation_date": 1422516494,
+        "answer_id": 28209142,
+        "question_id": 28193924
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 535,
+      "user_id": 2326627,
+      "user_type": "registered",
+      "accept_rate": 36,
+      "profile_image": "https://www.gravatar.com/avatar/53f770fcaacdf8d652f2237018e1da41?s=128&d=identicon&r=PG",
+      "display_name": "tigerjack89",
+      "link": "http://stackoverflow.com/users/2326627/tigerjack89"
+    },
+    "is_answered": true,
+    "view_count": 36,
+    "answer_count": 2,
+    "score": 0,
+    "last_activity_date": 1422519301,
+    "creation_date": 1422395570,
+    "question_id": 28180740,
+    "link": "http://stackoverflow.com/questions/28180740/retrieve-uri-attached-to-clientresource",
+    "title": "Retrieve URI attached to ClientResource",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1422519301,
+        "creation_date": 1422519301,
+        "answer_id": 28209866,
+        "question_id": 28180740
+      },
+      {
+        "owner": {
+          "reputation": 535,
+          "user_id": 2326627,
+          "user_type": "registered",
+          "accept_rate": 36,
+          "profile_image": "https://www.gravatar.com/avatar/53f770fcaacdf8d652f2237018e1da41?s=128&d=identicon&r=PG",
+          "display_name": "tigerjack89",
+          "link": "http://stackoverflow.com/users/2326627/tigerjack89"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1422433720,
+        "creation_date": 1422433720,
+        "answer_id": 28187666,
+        "question_id": 28180740
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "android",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 535,
+      "user_id": 2326627,
+      "user_type": "registered",
+      "accept_rate": 36,
+      "profile_image": "https://www.gravatar.com/avatar/53f770fcaacdf8d652f2237018e1da41?s=128&d=identicon&r=PG",
+      "display_name": "tigerjack89",
+      "link": "http://stackoverflow.com/users/2326627/tigerjack89"
+    },
+    "is_answered": true,
+    "view_count": 457,
+    "answer_count": 1,
+    "score": 5,
+    "last_activity_date": 1422387863,
+    "creation_date": 1422271471,
+    "last_edit_date": 1422316722,
+    "question_id": 28149169,
+    "link": "http://stackoverflow.com/questions/28149169/unable-to-convert-a-text-plain-utf-8-representation-into-an-object-of-class-ja",
+    "title": "Unable to convert a [text/plain,UTF-8] representation into an object of class java.lang.String",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 1600,
+          "user_id": 2246704,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/4f7c388f50f9f3d7548a51ee1045d494?s=128&d=identicon&r=PG",
+          "display_name": "sddamico",
+          "link": "http://stackoverflow.com/users/2246704/sddamico"
+        },
+        "is_accepted": false,
+        "score": 2,
+        "last_activity_date": 1422387863,
+        "last_edit_date": 1422387863,
+        "creation_date": 1422319142,
+        "answer_id": 28161386,
+        "question_id": 28149169
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 6981,
+      "user_id": 1033422,
+      "user_type": "registered",
+      "accept_rate": 94,
+      "profile_image": "https://i.stack.imgur.com/I6uGA.png?s=128&g=1",
+      "display_name": "SHC",
+      "link": "http://stackoverflow.com/users/1033422/shc"
+    },
+    "is_answered": true,
+    "view_count": 72,
+    "accepted_answer_id": 28136461,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1422189378,
+    "creation_date": 1422179153,
+    "last_edit_date": 1422182522,
+    "question_id": 28135080,
+    "link": "http://stackoverflow.com/questions/28135080/issue-binding-context-route-using-restlet",
+    "title": "issue binding context route using Restlet",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 6981,
+          "user_id": 1033422,
+          "user_type": "registered",
+          "accept_rate": 94,
+          "profile_image": "https://i.stack.imgur.com/I6uGA.png?s=128&g=1",
+          "display_name": "SHC",
+          "link": "http://stackoverflow.com/users/1033422/shc"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1422189378,
+        "creation_date": 1422189378,
+        "answer_id": 28136461,
+        "question_id": 28135080
+      }
+    ]
+  },
+  {
+    "tags": [
+      "odata",
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 4253841,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/fdd7ed6d88116e0985d7059880bafbd8?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Vishnu Perabathini",
+      "link": "http://stackoverflow.com/users/4253841/vishnu-perabathini"
+    },
+    "is_answered": false,
+    "view_count": 217,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422006354,
+    "creation_date": 1421631988,
+    "question_id": 28016860,
+    "link": "http://stackoverflow.com/questions/28016860/code-generation-for-a-secured-web-service-using-restlet-odata-extension",
+    "title": "Code generation for a secured web service using Restlet Odata extension"
+  },
+  {
+    "tags": [
+      "logging",
+      "restlet",
+      "access-log"
+    ],
+    "owner": {
+      "reputation": 10,
+      "user_id": 2773695,
+      "user_type": "registered",
+      "accept_rate": 50,
+      "profile_image": "https://www.gravatar.com/avatar/bc98dbbca166ce8041703260de1bcd34?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Rajavelu",
+      "link": "http://stackoverflow.com/users/2773695/rajavelu"
+    },
+    "is_answered": true,
+    "view_count": 146,
+    "accepted_answer_id": 28060762,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1421821043,
+    "creation_date": 1421766155,
+    "last_edit_date": 1421814122,
+    "question_id": 28048574,
+    "link": "http://stackoverflow.com/questions/28048574/access-log-written-in-a-file-in-restlet-server",
+    "title": "Access log written in a file in restlet server",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 95,
+          "user_id": 3041599,
+          "user_type": "registered",
+          "accept_rate": 60,
+          "profile_image": "https://www.gravatar.com/avatar/982c717c108c520482dbedecbc2c9210?s=128&d=identicon&r=PG&f=1",
+          "display_name": "rameshj",
+          "link": "http://stackoverflow.com/users/3041599/rameshj"
+        },
+        "is_accepted": true,
+        "score": 0,
+        "last_activity_date": 1421821043,
+        "creation_date": 1421821043,
+        "answer_id": 28060762,
+        "question_id": 28048574
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "performance",
+      "web-services",
+      "web-applications",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 81,
+      "user_id": 940642,
+      "user_type": "registered",
+      "accept_rate": 45,
+      "profile_image": "https://www.gravatar.com/avatar/5622ac8a98c9b61fde5bd52aeebbcd5a?s=128&d=identicon&r=PG",
+      "display_name": "vikas27",
+      "link": "http://stackoverflow.com/users/940642/vikas27"
+    },
+    "is_answered": true,
+    "view_count": 159,
+    "accepted_answer_id": 28052416,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1421777834,
+    "creation_date": 1421776090,
+    "question_id": 28051911,
+    "link": "http://stackoverflow.com/questions/28051911/restlet-standalone-application-limitations",
+    "title": "Restlet Standalone Application Limitations",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 2709,
+          "user_id": 116542,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/1697a732ce4f39085108b5bcbde41ce2?s=128&d=identicon&r=PG",
+          "display_name": "Jerome Louvel",
+          "link": "http://stackoverflow.com/users/116542/jerome-louvel"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1421777834,
+        "creation_date": 1421777834,
+        "answer_id": 28052416,
+        "question_id": 28051911
+      }
+    ]
+  },
+  {
+    "tags": [
+      "javascript",
+      "date",
+      "datetime",
+      "restlet",
+      "netsuite"
+    ],
+    "owner": {
+      "reputation": 208,
+      "user_id": 2957649,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/b28bd9521bfb8b337ebbb9320a29f464?s=128&d=identicon&r=PG",
+      "display_name": "ryanlunka",
+      "link": "http://stackoverflow.com/users/2957649/ryanlunka"
+    },
+    "is_answered": true,
+    "view_count": 362,
+    "accepted_answer_id": 28034253,
+    "answer_count": 2,
+    "score": 0,
+    "last_activity_date": 1421704927,
+    "creation_date": 1421446267,
+    "question_id": 27993607,
+    "link": "http://stackoverflow.com/questions/27993607/netsuite-restlet-submitting-date-time-timezone-issues",
+    "title": "NetSuite RESTlet, Submitting Date/Time Timezone Issues",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 1126,
+          "user_id": 3038244,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/d1e19716b5a3511665b01e4e815ab698?s=128&d=identicon&r=PG&f=1",
+          "display_name": "Rusty Shackles",
+          "link": "http://stackoverflow.com/users/3038244/rusty-shackles"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1421704927,
+        "creation_date": 1421704927,
+        "answer_id": 28034253,
+        "question_id": 27993607
+      },
+      {
+        "owner": {
+          "reputation": 342,
+          "user_id": 1226526,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/d86d97e9c8c2c1ad5a2add04310ae90e?s=128&d=identicon&r=PG",
+          "display_name": "vVinceth",
+          "link": "http://stackoverflow.com/users/1226526/vvinceth"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1421654702,
+        "creation_date": 1421654702,
+        "answer_id": 28020222,
+        "question_id": 27993607
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet",
+      "http-error"
+    ],
+    "owner": {
+      "reputation": 99,
+      "user_id": 2166750,
+      "user_type": "registered",
+      "accept_rate": 56,
+      "profile_image": "https://www.gravatar.com/avatar/b7a98a414302c4331caa45d56a522202?s=128&d=identicon&r=PG",
+      "display_name": "Bert Verhees",
+      "link": "http://stackoverflow.com/users/2166750/bert-verhees"
+    },
+    "is_answered": true,
+    "view_count": 83,
+    "accepted_answer_id": 28008885,
+    "answer_count": 3,
+    "score": 1,
+    "last_activity_date": 1421581749,
+    "creation_date": 1421577966,
+    "question_id": 28008813,
+    "link": "http://stackoverflow.com/questions/28008813/the-use-of-http-status-to-communicate-application-circumstances",
+    "title": "The use of HTTP status to communicate application circumstances",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 99,
+          "user_id": 2166750,
+          "user_type": "registered",
+          "accept_rate": 56,
+          "profile_image": "https://www.gravatar.com/avatar/b7a98a414302c4331caa45d56a522202?s=128&d=identicon&r=PG",
+          "display_name": "Bert Verhees",
+          "link": "http://stackoverflow.com/users/2166750/bert-verhees"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1421581749,
+        "creation_date": 1421581749,
+        "answer_id": 28009328,
+        "question_id": 28008813
+      },
+      {
+        "owner": {
+          "reputation": 408075,
+          "user_id": 571407,
+          "user_type": "registered",
+          "accept_rate": 100,
+          "profile_image": "https://www.gravatar.com/avatar/2f0d9dec16bae1e06552af55ddefc11f?s=128&d=identicon&r=PG",
+          "display_name": "JB Nizet",
+          "link": "http://stackoverflow.com/users/571407/jb-nizet"
+        },
+        "is_accepted": true,
+        "score": 0,
+        "last_activity_date": 1421578934,
+        "last_edit_date": 1421578934,
+        "creation_date": 1421578550,
+        "answer_id": 28008885,
+        "question_id": 28008813
+      },
+      {
+        "owner": {
+          "reputation": 1218,
+          "user_id": 528246,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/f93fabe952813d5f0373aba06202b990?s=128&d=identicon&r=PG",
+          "display_name": "Nicholas Daley",
+          "link": "http://stackoverflow.com/users/528246/nicholas-daley"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1421578666,
+        "creation_date": 1421578666,
+        "answer_id": 28008907,
+        "question_id": 28008813
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 4343,
+      "user_id": 398939,
+      "user_type": "registered",
+      "accept_rate": 62,
+      "profile_image": "https://www.gravatar.com/avatar/c09aacd08730773ebed79dc6532a9987?s=128&d=identicon&r=PG",
+      "display_name": "Ahmed Nuaman",
+      "link": "http://stackoverflow.com/users/398939/ahmed-nuaman"
+    },
+    "is_answered": true,
+    "view_count": 383,
+    "accepted_answer_id": 27917372,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1421136073,
+    "creation_date": 1421099011,
+    "question_id": 27911243,
+    "link": "http://stackoverflow.com/questions/27911243/setting-access-control-allow-methods-in-restlet",
+    "title": "Setting `Access-Control-Allow-Methods` in Restlet",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 460,
+          "user_id": 1705521,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/d6a3dac30b450d50061e555caa696a76?s=128&d=identicon&r=PG",
+          "display_name": "Santosh",
+          "link": "http://stackoverflow.com/users/1705521/santosh"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1421136073,
+        "creation_date": 1421136073,
+        "answer_id": 27917372,
+        "question_id": 27911243
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 8866,
+      "user_id": 785349,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/S6N4o.jpg?s=128&g=1",
+      "display_name": "xybrek",
+      "link": "http://stackoverflow.com/users/785349/xybrek"
+    },
+    "is_answered": true,
+    "view_count": 45,
+    "accepted_answer_id": 27816028,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1420698568,
+    "creation_date": 1420431050,
+    "last_edit_date": 1420437025,
+    "question_id": 27773301,
+    "link": "http://stackoverflow.com/questions/27773301/is-there-a-selfattachingserverresource-for-restlet",
+    "title": "Is there a SelfAttachingServerResource for Restlet?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1420698568,
+        "last_edit_date": 1420698568,
+        "creation_date": 1420622426,
+        "answer_id": 27816028,
+        "question_id": 27773301
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "servlets",
+      "apache-camel",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 1,
+      "user_id": 4421502,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/082e5aaad7147eb2439401ba9057f27b?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Robinson Duffy",
+      "link": "http://stackoverflow.com/users/4421502/robinson-duffy"
+    },
+    "is_answered": false,
+    "view_count": 1469,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1420668633,
+    "creation_date": 1420490007,
+    "last_edit_date": 1420668633,
+    "question_id": 27787435,
+    "link": "http://stackoverflow.com/questions/27787435/does-camel-rest-dsl-work-with-a-restlet-servlet",
+    "title": "Does Camel REST DSL work with a Restlet Servlet?"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "stackoverflow-charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sof:questions": "node lib/questions.js",
+    "sof:stats": "node lib/stats.js",
+    "serve": "./node_modules/http-server/bin/http-server -c-1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.17.0",
+    "promise-map-series": "^0.2.3",
+    "q-io": "^1.13.2",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.5"
+  }
+}

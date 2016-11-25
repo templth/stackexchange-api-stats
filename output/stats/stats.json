@@ -1,0 +1,76 @@
+{
+  "2015": {
+    "10": {
+      "questions": 21,
+      "answered": 15,
+      "answeredByUs": 9,
+      "notAnswered": 6
+    },
+    "11": {
+      "questions": 14,
+      "answered": 7,
+      "answeredByUs": 6,
+      "notAnswered": 7
+    },
+    "12": {
+      "questions": 13,
+      "answered": 9,
+      "answeredByUs": 4,
+      "notAnswered": 4
+    },
+    "01": {
+      "questions": 25,
+      "answered": 18,
+      "answeredByUs": 9,
+      "notAnswered": 7
+    },
+    "02": {
+      "questions": 20,
+      "answered": 15,
+      "answeredByUs": 13,
+      "notAnswered": 5
+    },
+    "03": {
+      "questions": 39,
+      "answered": 31,
+      "answeredByUs": 24,
+      "notAnswered": 8
+    },
+    "04": {
+      "questions": 28,
+      "answered": 21,
+      "answeredByUs": 13,
+      "notAnswered": 7
+    },
+    "05": {
+      "questions": 29,
+      "answered": 27,
+      "answeredByUs": 20,
+      "notAnswered": 2
+    },
+    "06": {
+      "questions": 16,
+      "answered": 13,
+      "answeredByUs": 8,
+      "notAnswered": 3
+    },
+    "07": {
+      "questions": 10,
+      "answered": 5,
+      "answeredByUs": 5,
+      "notAnswered": 5
+    },
+    "08": {
+      "questions": 12,
+      "answered": 8,
+      "answeredByUs": 4,
+      "notAnswered": 4
+    },
+    "09": {
+      "questions": 22,
+      "answered": 9,
+      "answeredByUs": 4,
+      "notAnswered": 13
+    }
+  }
+}

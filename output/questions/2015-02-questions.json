@@ -1,0 +1,853 @@
+[
+  {
+    "tags": [
+      "maven",
+      "maven-2",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 788,
+      "user_id": 1965449,
+      "user_type": "registered",
+      "accept_rate": 55,
+      "profile_image": "https://www.gravatar.com/avatar/10d5a6103ca3ef37d126d6499dc81cf7?s=128&d=identicon&r=PG",
+      "display_name": "user1965449",
+      "link": "http://stackoverflow.com/users/1965449/user1965449"
+    },
+    "is_answered": true,
+    "view_count": 1561,
+    "answer_count": 2,
+    "score": 2,
+    "last_activity_date": 1437606997,
+    "creation_date": 1424843433,
+    "question_id": 28712100,
+    "link": "http://stackoverflow.com/questions/28712100/restlet-maven-dependency-issue-error-code-307",
+    "title": "Restlet maven dependency issue error code 307",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 239,
+          "user_id": 2379259,
+          "user_type": "registered",
+          "accept_rate": 0,
+          "profile_image": "https://www.gravatar.com/avatar/d5111a97a83c6be7d4a4a46a0f86f7fa?s=128&d=identicon&r=PG",
+          "display_name": "venBigData",
+          "link": "http://stackoverflow.com/users/2379259/venbigdata"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1437606997,
+        "creation_date": 1437606997,
+        "answer_id": 31575617,
+        "question_id": 28712100
+      },
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1424858838,
+        "creation_date": 1424858838,
+        "answer_id": 28716145,
+        "question_id": 28712100
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "google-app-engine",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 8866,
+      "user_id": 785349,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/S6N4o.jpg?s=128&g=1",
+      "display_name": "xybrek",
+      "link": "http://stackoverflow.com/users/785349/xybrek"
+    },
+    "is_answered": true,
+    "view_count": 52,
+    "accepted_answer_id": 28449854,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1433549000,
+    "creation_date": 1423603313,
+    "question_id": 28442030,
+    "link": "http://stackoverflow.com/questions/28442030/filtering-root-path-with-restlet-and-gae",
+    "title": "Filtering ROOT path with Restlet and GAE",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1433549000,
+        "last_edit_date": 1433549000,
+        "creation_date": 1423644011,
+        "answer_id": 28449854,
+        "question_id": 28442030
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 135,
+      "user_id": 1237013,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/99c5537c8fdd51ce54ae7b7d95d6bd9c?s=128&d=identicon&r=PG",
+      "display_name": "Nesher",
+      "link": "http://stackoverflow.com/users/1237013/nesher"
+    },
+    "is_answered": false,
+    "view_count": 36,
+    "answer_count": 0,
+    "score": 1,
+    "last_activity_date": 1433443303,
+    "creation_date": 1423801184,
+    "last_edit_date": 1433443303,
+    "question_id": 28492436,
+    "link": "http://stackoverflow.com/questions/28492436/restlet-why-does-chaining-clientresource-getchild-yield-siblings-rather-than",
+    "title": "Restlet: Why does chaining ClientResource.getChild() yield siblings rather than nested resources?"
+  },
+  {
+    "tags": [
+      "json",
+      "groovy",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 90,
+      "user_id": 1165385,
+      "user_type": "registered",
+      "accept_rate": 67,
+      "profile_image": "https://www.gravatar.com/avatar/2b8f3125c90b24ae4ebd2992533a6dd1?s=128&d=identicon&r=PG",
+      "display_name": "strangenewstar",
+      "link": "http://stackoverflow.com/users/1165385/strangenewstar"
+    },
+    "is_answered": true,
+    "view_count": 199,
+    "answer_count": 2,
+    "score": 0,
+    "last_activity_date": 1430135991,
+    "creation_date": 1424280305,
+    "question_id": 28589877,
+    "link": "http://stackoverflow.com/questions/28589877/json-representation-of-a-http-400-for-restlet-client",
+    "title": "JSON Representation of a HTTP 400 for Restlet Client",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": false,
+        "score": 0,
+        "last_activity_date": 1425135314,
+        "last_edit_date": 1425135314,
+        "creation_date": 1424343626,
+        "answer_id": 28604615,
+        "question_id": 28589877
+      },
+      {
+        "owner": {
+          "reputation": 90,
+          "user_id": 1165385,
+          "user_type": "registered",
+          "accept_rate": 67,
+          "profile_image": "https://www.gravatar.com/avatar/2b8f3125c90b24ae4ebd2992533a6dd1?s=128&d=identicon&r=PG",
+          "display_name": "strangenewstar",
+          "link": "http://stackoverflow.com/users/1165385/strangenewstar"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1424284519,
+        "creation_date": 1424284519,
+        "answer_id": 28591268,
+        "question_id": 28589877
+      }
+    ]
+  },
+  {
+    "tags": [
+      "spring",
+      "file",
+      "static",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 2711,
+      "user_id": 2140998,
+      "user_type": "registered",
+      "accept_rate": 64,
+      "profile_image": "https://www.gravatar.com/avatar/10245c884bd428ef8c29fea34c43c96e?s=128&d=identicon&r=PG",
+      "display_name": "Stuart Watt",
+      "link": "http://stackoverflow.com/users/2140998/stuart-watt"
+    },
+    "is_answered": true,
+    "view_count": 279,
+    "accepted_answer_id": 28782502,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1425483813,
+    "creation_date": 1425076788,
+    "last_edit_date": 1425483813,
+    "question_id": 28775569,
+    "link": "http://stackoverflow.com/questions/28775569/restlet-cant-locate-static-files-through-directory",
+    "title": "Restlet: can&#39;t locate static files through Directory",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1425483137,
+        "last_edit_date": 1425483137,
+        "creation_date": 1425131701,
+        "answer_id": 28782502,
+        "question_id": 28775569
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "json",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 167,
+      "user_id": 1809780,
+      "user_type": "registered",
+      "accept_rate": 75,
+      "profile_image": "https://www.gravatar.com/avatar/ba067fa5945161208b9c117a64e9679c?s=128&d=identicon&r=PG",
+      "display_name": "Roland Beuker",
+      "link": "http://stackoverflow.com/users/1809780/roland-beuker"
+    },
+    "is_answered": true,
+    "view_count": 124,
+    "accepted_answer_id": 28754724,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1424992825,
+    "creation_date": 1424344878,
+    "last_edit_date": 1424528373,
+    "question_id": 28605057,
+    "link": "http://stackoverflow.com/questions/28605057/put-and-post-not-working-from-j2se-platform-restlet-version-3-0-m1",
+    "title": "PUT and POST not working from J2SE platform (RESTLET Version 3.0-M1)",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 167,
+          "user_id": 1809780,
+          "user_type": "registered",
+          "accept_rate": 75,
+          "profile_image": "https://www.gravatar.com/avatar/ba067fa5945161208b9c117a64e9679c?s=128&d=identicon&r=PG",
+          "display_name": "Roland Beuker",
+          "link": "http://stackoverflow.com/users/1809780/roland-beuker"
+        },
+        "is_accepted": true,
+        "score": 0,
+        "last_activity_date": 1424992825,
+        "creation_date": 1424992825,
+        "answer_id": 28754724,
+        "question_id": 28605057
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "https",
+      "restlet",
+      "apache-commons-httpclient"
+    ],
+    "owner": {
+      "reputation": 320,
+      "user_id": 3061776,
+      "user_type": "registered",
+      "accept_rate": 92,
+      "profile_image": "https://www.gravatar.com/avatar/923886cee198db7663725767354c290b?s=128&d=identicon&r=PG&f=1",
+      "display_name": "Igor",
+      "link": "http://stackoverflow.com/users/3061776/igor"
+    },
+    "is_answered": true,
+    "view_count": 190,
+    "accepted_answer_id": 28678892,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1424761535,
+    "creation_date": 1424707231,
+    "last_edit_date": 1424761535,
+    "question_id": 28677881,
+    "link": "http://stackoverflow.com/questions/28677881/restlet-send-get-request-to-server-and-process-response",
+    "title": "Restlet send &quot;get&quot; request to server and process response",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1424710208,
+        "creation_date": 1424710208,
+        "answer_id": 28678892,
+        "question_id": 28677881
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "maven",
+      "oauth",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 3375,
+      "user_id": 1076143,
+      "user_type": "registered",
+      "accept_rate": 100,
+      "profile_image": "https://i.stack.imgur.com/E8TKS.png?s=128&g=1",
+      "display_name": "Misch",
+      "link": "http://stackoverflow.com/users/1076143/misch"
+    },
+    "is_answered": true,
+    "view_count": 89,
+    "accepted_answer_id": 28679417,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1424729455,
+    "creation_date": 1424707656,
+    "last_edit_date": 1424729455,
+    "question_id": 28678011,
+    "link": "http://stackoverflow.com/questions/28678011/where-is-restlets-oauth-extension-in-maven",
+    "title": "Where is Restlet&#39;s OAuth extension in Maven?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1424711724,
+        "creation_date": 1424711724,
+        "answer_id": 28679417,
+        "question_id": 28678011
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "rest",
+      "restlet",
+      "swagger",
+      "swagger-ui"
+    ],
+    "owner": {
+      "reputation": 1260,
+      "user_id": 1147080,
+      "user_type": "registered",
+      "accept_rate": 80,
+      "profile_image": "https://www.gravatar.com/avatar/a8f9cf4b5770323f558a38bb9284d1b6?s=128&d=identicon&r=PG",
+      "display_name": "Deepu",
+      "link": "http://stackoverflow.com/users/1147080/deepu"
+    },
+    "is_answered": true,
+    "view_count": 2702,
+    "accepted_answer_id": 28578538,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1424256116,
+    "creation_date": 1424240722,
+    "last_edit_date": 1424252601,
+    "question_id": 28577302,
+    "link": "http://stackoverflow.com/questions/28577302/how-to-integrate-swagger-ui-for-restlet-webservice-in-java",
+    "title": "How to integrate Swagger-ui for Restlet webservice in Java?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 6517,
+          "user_id": 1103327,
+          "user_type": "registered",
+          "profile_image": "https://www.gravatar.com/avatar/9fc95cabf15daeda6abee19db6ca58c9?s=128&d=identicon&r=PG",
+          "display_name": "Ron",
+          "link": "http://stackoverflow.com/users/1103327/ron"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1424256116,
+        "last_edit_date": 1424256116,
+        "creation_date": 1424245751,
+        "answer_id": 28578538,
+        "question_id": 28577302
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "eclipse",
+      "odata",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 2290,
+      "user_id": 2704885,
+      "user_type": "registered",
+      "accept_rate": 55,
+      "profile_image": "https://i.stack.imgur.com/nGr5K.jpg?s=128&g=1",
+      "display_name": "Boldijar Paul",
+      "link": "http://stackoverflow.com/users/2704885/boldijar-paul"
+    },
+    "is_answered": true,
+    "view_count": 236,
+    "accepted_answer_id": 28529571,
+    "answer_count": 1,
+    "score": 1,
+    "last_activity_date": 1424246749,
+    "creation_date": 1423950454,
+    "question_id": 28520672,
+    "link": "http://stackoverflow.com/questions/28520672/odata-restlet-code-generation-failed",
+    "title": "Odata Restlet code generation failed",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1424246749,
+        "last_edit_date": 1424246749,
+        "creation_date": 1424025057,
+        "answer_id": 28529571,
+        "question_id": 28520672
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "regex",
+      "google-app-engine",
+      "servlets",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 8866,
+      "user_id": 785349,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/S6N4o.jpg?s=128&g=1",
+      "display_name": "xybrek",
+      "link": "http://stackoverflow.com/users/785349/xybrek"
+    },
+    "is_answered": false,
+    "view_count": 77,
+    "answer_count": 0,
+    "score": 1,
+    "last_activity_date": 1423684190,
+    "creation_date": 1423682968,
+    "last_edit_date": 1423684190,
+    "question_id": 28462874,
+    "link": "http://stackoverflow.com/questions/28462874/servlet-mapping-by-regex",
+    "title": "Servlet mapping by Regex"
+  },
+  {
+    "tags": [
+      "java",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 8866,
+      "user_id": 785349,
+      "user_type": "registered",
+      "accept_rate": 97,
+      "profile_image": "https://i.stack.imgur.com/S6N4o.jpg?s=128&g=1",
+      "display_name": "xybrek",
+      "link": "http://stackoverflow.com/users/785349/xybrek"
+    },
+    "is_answered": true,
+    "view_count": 112,
+    "accepted_answer_id": 28449561,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1423642864,
+    "creation_date": 1423606260,
+    "question_id": 28442872,
+    "link": "http://stackoverflow.com/questions/28442872/the-right-way-to-do-filtering-with-restlet",
+    "title": "The right way to do Filtering with Restlet",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 776,
+          "user_id": 1921839,
+          "user_type": "registered",
+          "profile_image": "https://i.stack.imgur.com/E4q3Q.png?s=128&g=1",
+          "display_name": "Thierry Boileau",
+          "link": "http://stackoverflow.com/users/1921839/thierry-boileau"
+        },
+        "is_accepted": true,
+        "score": 0,
+        "last_activity_date": 1423642864,
+        "creation_date": 1423642864,
+        "answer_id": 28449561,
+        "question_id": 28442872
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 506,
+      "user_id": 1443055,
+      "user_type": "registered",
+      "accept_rate": 26,
+      "profile_image": "https://www.gravatar.com/avatar/efe3a324a80407da65886e4620e5baeb?s=128&d=identicon&r=PG",
+      "display_name": "Ashu",
+      "link": "http://stackoverflow.com/users/1443055/ashu"
+    },
+    "is_answered": false,
+    "view_count": 462,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1423589487,
+    "creation_date": 1423509951,
+    "question_id": 28417669,
+    "link": "http://stackoverflow.com/questions/28417669/restlet-http-connection-pool",
+    "title": "Restlet HTTP Connection Pool"
+  },
+  {
+    "tags": [
+      "rest",
+      "jax-rs",
+      "restlet",
+      "swagger",
+      "restlet-2.0"
+    ],
+    "owner": {
+      "reputation": 13,
+      "user_id": 4544357,
+      "user_type": "registered",
+      "profile_image": "https://www.gravatar.com/avatar/9b75d9e19a75f587ac4ef680c1ca05ab?s=128&d=identicon&r=PG&f=1",
+      "display_name": "bennnnnnjamin",
+      "link": "http://stackoverflow.com/users/4544357/bennnnnnjamin"
+    },
+    "is_answered": true,
+    "view_count": 318,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1423550517,
+    "creation_date": 1423438281,
+    "last_edit_date": 1423550517,
+    "question_id": 28400652,
+    "link": "http://stackoverflow.com/questions/28400652/restlet-studio-error-422-when-generating-sample-client-and-server",
+    "title": "Restlet Studio Error 422 when generating sample client and server",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": false,
+        "score": 1,
+        "last_activity_date": 1423550183,
+        "creation_date": 1423550183,
+        "answer_id": 28425550,
+        "question_id": 28400652
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "spring",
+      "unit-testing",
+      "apache-camel",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 1075,
+      "user_id": 1018598,
+      "user_type": "registered",
+      "accept_rate": 20,
+      "profile_image": "https://www.gravatar.com/avatar/20d8cb471bb2048bec659d89724228ab?s=128&d=identicon&r=PG",
+      "display_name": "KwintenP",
+      "link": "http://stackoverflow.com/users/1018598/kwintenp"
+    },
+    "is_answered": false,
+    "view_count": 361,
+    "answer_count": 0,
+    "score": 0,
+    "last_activity_date": 1423495143,
+    "creation_date": 1423495143,
+    "question_id": 28413063,
+    "link": "http://stackoverflow.com/questions/28413063/specify-port-and-hostname-with-camel-restlet-during-unit-test",
+    "title": "Specify port and hostname with camel-restlet during unit test"
+  },
+  {
+    "tags": [
+      "java",
+      "html",
+      "css",
+      "twitter-bootstrap",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 147,
+      "user_id": 1915570,
+      "user_type": "registered",
+      "accept_rate": 85,
+      "profile_image": "https://www.gravatar.com/avatar/1a490b071128c9dc440949dd538b464a?s=128&d=identicon&r=PG",
+      "display_name": "user1915570",
+      "link": "http://stackoverflow.com/users/1915570/user1915570"
+    },
+    "is_answered": true,
+    "view_count": 327,
+    "accepted_answer_id": 28403354,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1423484864,
+    "creation_date": 1423222305,
+    "question_id": 28364834,
+    "link": "http://stackoverflow.com/questions/28364834/can-use-xml-css-json-in-restlet-java-se",
+    "title": "Can use xml/css/json in Restlet Java SE?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 2,
+        "last_activity_date": 1423484864,
+        "last_edit_date": 1423484864,
+        "creation_date": 1423459784,
+        "answer_id": 28403354,
+        "question_id": 28364834
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "file",
+      "upload",
+      "apache-commons",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 105,
+      "user_id": 1228407,
+      "user_type": "registered",
+      "accept_rate": 23,
+      "profile_image": "https://www.gravatar.com/avatar/137d5e85359443493b543d2e5a438954?s=128&d=identicon&r=PG",
+      "display_name": "Santiago Ignacio Poli",
+      "link": "http://stackoverflow.com/users/1228407/santiago-ignacio-poli"
+    },
+    "is_answered": false,
+    "view_count": 592,
+    "answer_count": 2,
+    "score": 0,
+    "last_activity_date": 1423145170,
+    "creation_date": 1423074706,
+    "question_id": 28328766,
+    "link": "http://stackoverflow.com/questions/28328766/java-binary-file-upload-using-restlet-apache-commons-fileupload",
+    "title": "Java: Binary File Upload using Restlet + Apache Commons FileUpload"
+  },
+  {
+    "tags": [
+      "spring",
+      "restlet",
+      "xml-configuration"
+    ],
+    "owner": {
+      "reputation": 2899,
+      "user_id": 355232,
+      "user_type": "registered",
+      "accept_rate": 63,
+      "profile_image": "https://www.gravatar.com/avatar/16a6ec87951c77954a811c62207faba5?s=128&d=identicon&r=PG",
+      "display_name": "sbrattla",
+      "link": "http://stackoverflow.com/users/355232/sbrattla"
+    },
+    "is_answered": true,
+    "view_count": 189,
+    "accepted_answer_id": 28295102,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422954696,
+    "creation_date": 1422913638,
+    "question_id": 28287377,
+    "link": "http://stackoverflow.com/questions/28287377/spring-restlet-100-xml-configuration",
+    "title": "Spring &amp; Restlet : 100% XML configuration?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1422954696,
+        "creation_date": 1422954696,
+        "answer_id": 28295102,
+        "question_id": 28287377
+      }
+    ]
+  },
+  {
+    "tags": [
+      "java",
+      "file-upload",
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 323,
+      "user_id": 3868502,
+      "user_type": "registered",
+      "accept_rate": 57,
+      "profile_image": "https://graph.facebook.com/100001670898195/picture?type=large",
+      "display_name": "Arun M R Nair",
+      "link": "http://stackoverflow.com/users/3868502/arun-m-r-nair"
+    },
+    "is_answered": true,
+    "view_count": 531,
+    "accepted_answer_id": 28294825,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422953704,
+    "creation_date": 1422944083,
+    "question_id": 28292523,
+    "link": "http://stackoverflow.com/questions/28292523/file-upload-with-description-in-restlet",
+    "title": "File Upload with Description in Restlet",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1422953704,
+        "creation_date": 1422953704,
+        "answer_id": 28294825,
+        "question_id": 28292523
+      }
+    ]
+  },
+  {
+    "tags": [
+      "restlet"
+    ],
+    "owner": {
+      "reputation": 2899,
+      "user_id": 355232,
+      "user_type": "registered",
+      "accept_rate": 63,
+      "profile_image": "https://www.gravatar.com/avatar/16a6ec87951c77954a811c62207faba5?s=128&d=identicon&r=PG",
+      "display_name": "sbrattla",
+      "link": "http://stackoverflow.com/users/355232/sbrattla"
+    },
+    "is_answered": true,
+    "view_count": 347,
+    "accepted_answer_id": 28273989,
+    "answer_count": 1,
+    "score": 0,
+    "last_activity_date": 1422867240,
+    "creation_date": 1422822171,
+    "question_id": 28267431,
+    "link": "http://stackoverflow.com/questions/28267431/spring-reslet-is-it-possible-to-map-a-url-path-component-to-a-method-argumen",
+    "title": "Spring &amp; Reslet : is it possible to map a URL path component to a method argument?",
+    "answers": [
+      {
+        "owner": {
+          "reputation": 64083,
+          "user_id": 1873365,
+          "user_type": "registered",
+          "accept_rate": 86,
+          "profile_image": "https://i.stack.imgur.com/45TMV.png?s=128&g=1",
+          "display_name": "Thierry Templier",
+          "link": "http://stackoverflow.com/users/1873365/thierry-templier"
+        },
+        "is_accepted": true,
+        "score": 1,
+        "last_activity_date": 1422867240,
+        "creation_date": 1422867240,
+        "answer_id": 28273989,
+        "question_id": 28267431
+      }
+    ]
+  }
+]
