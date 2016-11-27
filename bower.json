@@ -1,0 +1,8 @@
+{
+  "name": "sof-stats",
+  "version": "0.1.0",
+  "dependencies": {
+    "d3": "~3.5.5",
+    "lodash": "~3.10.1"
+  }
+}
